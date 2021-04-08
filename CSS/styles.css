@@ -1,0 +1,105 @@
+/****************  SELECTOR STYLES  ****************/
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Shadows Into Light Two', cursive;
+}
+
+h1{
+  margin-top: 0;
+  font-size: 70px;
+  color: #413c69;
+  padding-top: 150px;
+  margin-bottom: 0;
+}
+
+h3{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 50px;
+  color: #4a47a3;
+  padding-top: 20px;
+  font-size: 50px;
+}
+
+h2{
+  color: #413c69;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  font-size: 50px;
+
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 15px;
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+/****************  CLASS STYLES  ****************/
+
+.top-container{
+  background-color: #a7c5eb;
+  height: 500px;
+}
+
+.middle-container{
+  background-color: #709fb0;
+  margin-bottom: 0;
+}
+
+.bottom-container{
+  background-color: #a7c5eb;
+}
+
+.last-contaier{
+  background-color: #709fb0;
+  height: 60px;
+}
+
+.eng{
+  position: absolute;
+  right: 10px;
+}
+
+.tr{
+  position: absolute;
+  right: 79px;
+}
+
+.pp{
+  height: 250px;
+  width: 250px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+.bio{
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}
+
+.info{
+  margin: 0;
+  font-size: 25px;
+  padding-bottom: 50px;
+}
+
+.sonpar{
+  margin: 0;
+  padding-top: 20px;
+
+}
